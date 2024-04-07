@@ -6,7 +6,7 @@
   "model": "./alexha.tflite",
   "version": 1,
   "micro": {
-    "probability_cutoff": 0.66,
-    "sliding_window_average_size": 8
+    "probability_cutoff": 0.86,
+    "sliding_window_average_size": 10
   }
 }
